@@ -11,7 +11,9 @@ TransactionDetail
 TransactionHeader
 
 This data analysis was carried out to find:
+
 1.Show The Year monthly of RamenShop data that above average of all monthly income using line chart.
+
 2.Show The frequency of customer Spending category in RamenShop. Each customer Spending Category is determined by below condition:
 
    Total Spend            MemberShip
