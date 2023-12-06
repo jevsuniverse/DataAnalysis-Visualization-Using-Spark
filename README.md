@@ -20,5 +20,5 @@ This data analysis was carried out to find:
      <100K                   Low
     100-1M                   Mid
       1M                     Mega
-
-3. Show Top 5 Customer with the most transaction for customer with indonesian phone Number using pie chart.
+      
+3.Show Top 5 Customer with the most transaction for customer with indonesian phone Number using pie chart.
